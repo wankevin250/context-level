@@ -1,1 +1,7 @@
 Here contains the various input data used, on which the code was run.
+
+The indexed_chinese_train_4-14.csv/indexed_english_train_4-14.csv contains the Havaldar dataset data, which has been indexed for usage in the Havaldar analysis code.
+
+The UM-Corpus data access can be requested from the UM-Corpus team, at this link: http://nlp2ct.cis.umac.mo/um-corpus/
+
+Using the code on the data, with proper formatting of the inputs, will allow for the recreation of most figures and data, with overall similarities.
