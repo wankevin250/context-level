@@ -1,7 +1,10 @@
 Here contains the code for the context level paper, in the form of IPYNB files (Google Colab) and Python scripts.
 
-The process_um_corpus.py file is used to take the raw data from the UM Corpus and turn it into an indexed dataset.
+Inside of the Havaldar folder, there is the cross_cultural_advice.ipynb file, which contains the entire pipeline through which the figures and data for the Havaldar dataset are generated.
 
-The cross_cultural_advice.ipynb file contains the original pipeline, on which most of the intermediate figures and data was generated.
+Inside of the UM Corpus folder, there is first the process_um_corpus.py file. This file is used to take the raw data from the UM Corpus and turn it into an indexed dataset.
+There is also the um_thesis_analysis.ipynb file, which is nearly identical to the cross_cultural_advice.ipynb file, just on the UM Corpus instead.
+
+Finally, inside of the Cross-Dataset folder, we have the code that generates one large combined dataset, along with performing analyses on such code so that we can get finalized PCAs, plots, etc.
 
 
