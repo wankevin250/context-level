@@ -1,1 +1,7 @@
-Here contains the code for the context level paper, in the form of IPYNB files (Google Colab).
+Here contains the code for the context level paper, in the form of IPYNB files (Google Colab) and Python scripts.
+
+The process_um_corpus.py file is used to take the raw data from the UM Corpus and turn it into an indexed dataset.
+
+The cross_cultural_advice.ipynb file contains the original pipeline, on which most of the intermediate figures and data was generated.
+
+
